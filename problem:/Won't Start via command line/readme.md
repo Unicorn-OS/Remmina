@@ -10,7 +10,7 @@ https://askubuntu.com/questions/1546857/problem-getting-remmina-1-4-39-working-o
 killall remmina
 
 # with logging:
-
 G_MESSAGES_DEBUG=all
+
 remmina
 ```
